@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 03 and why they'll be important to you as a Data Scientist.
+This lesson summarizes the topics we'll be covering in section 04 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -11,20 +11,30 @@ You will be able to:
 
 ## Working with Pandas
 
-After a brief introduction to the most popular data science libraries in Python, section 03 takes you deeper into imporing and accessing data using the two key Pandas data structures - Series Aand DataFrames.
+In this section, we're going to continue to hone our exploratory data analysis skills.
 
-## Summary Stats
+## Lambda Functions
 
-We then look at some of the methods built right into Pandas for generating descriptive statistics when doing your initial exploratory data analysis.
+Sometimes you want to write a little function in Python "on the fly" to solve a problem - often to be applied to a collection of data to clean it up. Lambda functions are Pythons tool for writing a function just where you need to use it. So we'll kick off the section introducing and then practicing Lambda functions so you have another tool at your disposal for cleaning up data.
 
-## Customizing Visualizations
+## Combining DataFrames
 
-We then look at how you can start to customize your visualizations in Matplotlin, and look at the data visualization capabilities exposed directly within Pandas for quick and efficient plotting.
+We'll then look at how you can split, apply and combine DataFrames so you can bring together data from mutliple sources into a singel larger data set.
 
-## Welcome to Kaggle
+## Pivot Tables
 
-We then introduce the very popular Boston Housing data set, and we use that as an excuse to get you set up on Kaggle - an important destination for any practicing data scientist. We then give you a project using the Boston Housing data to let you practice your statistical and visualization skills.
+We'll then learn about the various ways we can index and structure our data sets to make it easier to process or understand, using aggregation functions and pivot tables.
+
+## Dealing with Missing Data
+
+From there, we'll then go on to looking at a numnber of common techniques for dealing with missing data - the bane of a data scientists existance!
+
+
+## Project - Data Cleaning
+
+Finally, we'll finish up section 4 with an open ended project where you get plenty of experience cleaning up date using the skills you just learned.
+
 
 ## Summary
 
-In this section, we're leveraging the programming and statistical concepts from earlier sections to provide you with additional practice working with various data sets.
+In this section, we're digging deeper into the tools required to import, combine and clean up data.
